@@ -1,6 +1,10 @@
+layout: page
+title: "PAGE-TITLE"
+permalink: /code-of-conduct
+
 # Code of Conduct
 
-By agreeing to participate in this hackathon, you agree to abide by these code-of-conduct. Our hackathon is dedicated to providing a safe and comfortable environment and harassment-free experience for everyone, regardless of the following:
+By agreeing to participate in this hackathon either as a participant or sponsor, you agree to abide by these code-of-conduct. Our hackathon is dedicated to providing a safe and comfortable environment and harassment-free experience for everyone, regardless of the following:
 
 - gender
 - gender identity and expression
