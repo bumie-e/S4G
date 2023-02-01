@@ -1,7 +1,4 @@
-layout: page
-title: "Code Of Conduct"
-permalink: /code-of-conduct
-
+# Code Of Conduct
 
 By agreeing to participate in this hackathon either as a participant or sponsor, you agree to abide by these code-of-conduct. Our hackathon is dedicated to providing a safe and comfortable environment and harassment-free experience for everyone, regardless of the following:
 
