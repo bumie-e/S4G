@@ -32,4 +32,4 @@ We do not tolerate harassment of hackathon participants in any form. Sexual lang
 
 Hackathon participants violating these rules may be sanctioned or expelled from the hackathon without a refund (if applicable) at the discretion of the hackathon organisers. If any participant has won any prize, the prize will be forfeited. If there’s any case of misconduct, report to any official with an Organizer tag or send a report to msftoau@outlook.com
 
-Source: https://hackcodeofconduct.org/
+Source@ https://hackcodeofconduct.org/
